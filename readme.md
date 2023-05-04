@@ -17,16 +17,8 @@
 
 ---
 
-- Download or clone the repository
 
-```
-git clone https://github.com/supzi-del/Web-dev-mini-projects.git
-```
 
 - Go to the directory
 - Run the index.html file
 - Calculate tip.
-
-<h3> ScreenShot </h3>
-<img src = "https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/Tip%20Calculator/snap.PNG" />
-<br>
